@@ -23,7 +23,7 @@
 <Br>
 <h2 align="center">Programming Languages ⚒️</h2>
 <br/>
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center">
   <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++ Logo">
   <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="C Logo">
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="Python Logo">
