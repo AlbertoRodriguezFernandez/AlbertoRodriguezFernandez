@@ -6,9 +6,9 @@
 <Br>
 <h1 align="center">About Me! 😎</h1>
 
+- 😄: I am from Granada, Andalucía, southern Spain. I love my city.
 - 🏫: I'm currently studying Computer Science and Business Administration at the University of Granada.
 - 🔭: I am interested in contributing my knowledge based on companies and technology in any sector/area for my development as a professional.
-- 😄  Pronouns: He/His
 - ⚡  Fun fact: I am a sporty person, apart from that I like reading and spending time with my family.! ⚽
   
 <hr>
