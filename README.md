@@ -30,8 +30,11 @@
 
 <hr>
 <br>
-<h2 align="center">Programming Statistics</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoRodriguezFernandez&layout=compact&theme=dark" alt="Top Langs">
+<h2 align="center">Programming Statistics 🚀</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoRodriguezFernandez&layout=compact&theme=dark" alt="Top Langs">
+</div>
+
 
     
 <Br>
