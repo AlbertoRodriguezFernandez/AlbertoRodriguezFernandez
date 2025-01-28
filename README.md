@@ -21,7 +21,7 @@
 
 <hr>
 <Br>
-<h2 align="center">Programming Languages ⚒️</h2>
+<h2 align="center">Programming Languages 🚀</h2>
 <br/>
 <div align="center">
   <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++ Logo">
@@ -32,17 +32,6 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/bash.png" alt="Bash Logo">
   <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/sql.png" alt="SQL Icon">
 </div>
-
-
-
-<hr>
-<br>
-<h2 align="center">Programming Statistics 🚀</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoRodriguezFernandez&layout=compact&theme=dark" alt="Top Langs">
-</div>
-
-
     
 <Br>
 <hr>
