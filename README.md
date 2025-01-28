@@ -40,7 +40,8 @@
 <br/>
 <div style="display: flex; justify-content: center;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoRodriguezFernandez&layout=donut&theme=dark" alt="Top Languages" style="margin-right: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoRodriguezFernandez&layout=donut&theme=dark" alt="Top Languages">
+        <hr> <!-- Añadido para separar las imágenes -->
         <img src="https://github-readme-stats.vercel.app/api?username=AlbertoRodriguezFernandez&show_icons=true&theme=dark" alt="Alberto Rodriguez Fernandez GitHub Stats">
     </a>
 </div>
