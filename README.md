@@ -4,7 +4,7 @@
 <hr>
 <h1 align="center">I'm <a href="https://github.com/AlbertoRodriguezFernandez">Alberto Rodríguez Fernández<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
-<h1>About Me! 😎</h1>
+<h1 align="center">About Me! 😎</h1>
 
 - 🏫: I'm currently studying Computer Science and Business Administration at the University of Granada.
 - 🔭: I am interested in contributing my knowledge based on companies and technology in any sector/area for my development as a professional.
