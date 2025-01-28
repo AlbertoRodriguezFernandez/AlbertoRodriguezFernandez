@@ -29,10 +29,10 @@
 </div>
 
 <hr>
-<Br>
-<h2 align="center">Programming Stadistics</h2>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoRodriguezFernandez&layout=compact&theme=dark)
-<br/>
+<br>
+<h2 align="center">Programming Statistics</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoRodriguezFernandez&layout=compact&theme=dark" alt="Top Langs">
+
     
 <Br>
 <hr>
