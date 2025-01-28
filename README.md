@@ -31,7 +31,6 @@
 <Br>
 <hr>
 <Br>
-<h1>Thank You! 🤵 </h1>
+<h1 align="center">Thank You! 🤵</h1>
 <Br>
-
 ------
