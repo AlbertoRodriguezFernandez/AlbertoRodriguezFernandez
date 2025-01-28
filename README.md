@@ -21,7 +21,7 @@
 
 <hr>
 <Br>
-<h2 align="center">⚒️ Programming Languages ⚒️</h2>
+<h2 align="center">Programming Languages ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,cpp,c,ruby,python,java" /> 
