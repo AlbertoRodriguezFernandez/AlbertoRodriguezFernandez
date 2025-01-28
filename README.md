@@ -31,7 +31,7 @@
 <hr>
 <Br>
 <h2 align="center">Programming Stadistics</h2>
-![Alberto Rodriguez' GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoRodriguezFernandez&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoRodriguezFernandez&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoRodriguezFernandez&layout=compact)
 
     
 <Br>
