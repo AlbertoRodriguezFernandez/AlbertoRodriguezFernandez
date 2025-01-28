@@ -16,7 +16,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/alberto-rodguez-ferndz/" target="blank"><img align="center" src="https://img.shields.io/badge/Alberto Rodriguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:arf170903@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/arf170903@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/AlbertoRodriguezFernandez" target="blank"><img align="center" src="https://img.shields.io/badge/AlbertoRodriguezFernandez-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/alberto-rodguez-ferndz/" target="blank"><img align="center" src="https://img.shields.io/badge/Alberto Rodriguez Fernandez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:arf170903@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/arf170903@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/AlbertoRodriguezFernandez" target="blank"><img align="center" src="https://img.shields.io/badge/AlbertoRodriguezFernandez-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
