@@ -20,21 +20,6 @@
 </p>
 
 <hr>
-<Br>
-<h2 align="center">Programming Languages 🚀</h2>
-<br/>
-<div align="center">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++ Logo">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="C Logo">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="Python Logo">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java Logo">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/ruby-programming-language.png" alt="Ruby Logo">
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/bash.png" alt="Bash Logo">
-  <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/sql.png" alt="SQL Icon">
-</div>
-
-
-<hr>
 <br>
 <h2 align="center">Programming Statistics 💻</h2>
 <br/>
