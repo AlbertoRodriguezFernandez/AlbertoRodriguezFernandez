@@ -21,7 +21,7 @@
 
 <hr>
 <br>
-<h2 align="center">Programming Statistics 💻</h2>
+<h1 align="center">Programming Statistics 💻</h1>
 <br/>
 <div style="display: flex; justify-content: center;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
