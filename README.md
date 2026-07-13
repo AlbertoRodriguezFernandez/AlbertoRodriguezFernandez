@@ -9,7 +9,7 @@
 - 🌍 **Location:** Granada, Spain.
 - 🎓 **Education:** Double Degree in Computer Science and Business Administration from the University of Granada.
 - 🔭 **Interests:** Bridging the gap between technology and corporate strategy to drive digital transformation and add real business value.
-- ⚡ **Fun fact:** When I'm not in front of a screen, you'll likely find me playing sports, reading a good book, or enjoying time with my family or girlfriend.
+- ⚡ **Fun fact:** When I'm not in front of a screen, you'll likely find me playing sports, reading a good book, or enjoying time with my family.
   
 <hr>
 <Br>
