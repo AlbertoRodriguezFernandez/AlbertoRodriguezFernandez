@@ -2,14 +2,14 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://github.com/AlbertoRodriguezFernandez">Alberto Rodríguez Fernández<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/AlbertoRodriguezFernandez">Alberto Rodríguez Fernández</a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1 align="center">About Me 😎</h1>
 
-- 😄: I am from Granada, Andalucía, southern Spain. I love my city.
-- 🏫: I'm currently studying Computer Science and Business Administration at the University of Granada.
-- 🔭: I am interested in contributing my knowledge based on companies and technology in any sector/area for my development as a professional.
-- ⚡  Fun fact: I am a sporty person, apart from that I like reading and spending time with my family.! ⚽
+- 🌍 **Location:** Granada, Spain.
+- 🎓 **Education:** Double Degree in Computer Science and Business Administration from the University of Granada.
+- 🔭 **Interests:** Bridging the gap between technology and corporate strategy to drive digital transformation and add real business value.
+- ⚡ **Fun fact:** When I'm not in front of a screen, you'll likely find me playing sports, reading a good book, or enjoying time with my family or girlfriend.
   
 <hr>
 <Br>
